@@ -1,0 +1,15 @@
+body
+{
+background-color: rgba(0, 0, 0, 0.522);  
+
+}
+header
+{
+    background-color: chartreuse;
+    color: thistle;
+    margin-bottom: auto;
+}
+li
+{
+    color: black;
+}
