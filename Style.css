@@ -14,6 +14,7 @@ color: aliceblue;
 }
 header
 {
+    display: grid;
     background-color: chartreuse;
     color: thistle;
     
@@ -25,6 +26,7 @@ li
 
 main
 {
+
 padding: 20px;
 background-color: blue;
 color: white;
