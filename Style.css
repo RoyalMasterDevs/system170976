@@ -1,13 +1,22 @@
 body
 {
-background-color: rgba(0, 0, 0, 0.522);  
 
+background-color: rgba(0, 0, 0, 0.316); 
+font-size: 20px; 
+color: aliceblue;
+
+}
+
+.nombre{
+    color: black;
+
+    text-align: center;
 }
 header
 {
     background-color: chartreuse;
     color: thistle;
-    margin-bottom: auto;
+    
 }
 li
 {
