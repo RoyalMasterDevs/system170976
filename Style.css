@@ -1,38 +1,33 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 16px;
 
-
-.nombre{
- 
-  color: #000;
 }
 
-
-
-main
-{
-background-color: blue;
-color: white;
-font-size: 20px;
+.contenedor{
+    width: 120rem;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
 }
 
 .nv-bg{
     background-color:black;
 }
 
-.contenedor{
-    width: 120rem
-    margin: 0 auto;
-}
-
 .navegacion{
     padding: 1rem;
     display: flex;
     justify-content: space-between;
-
     
+    
+
 }
 
 .navegacion a{
   color: #ffffff;
   text-decoration: none;
-    
 }
